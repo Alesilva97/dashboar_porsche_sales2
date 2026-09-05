@@ -33,7 +33,7 @@ Git	Controle de versão
 GitHub	Hospedagem e portfólio
 
 📊 Preview
-
+https://alesilva97.github.io/dashboar_porsche_sales2/
 Dashboard comercial com interface inspirada na linguagem visual premium da Porsche, utilizando uma abordagem minimalista, alto contraste e foco na visualização dos dados.
 <img width="1462" height="901" alt="image" src="https://github.com/user-attachments/assets/1c03f4ef-419e-48d6-a64a-3b28f30fac9f" />
 
